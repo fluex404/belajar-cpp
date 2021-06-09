@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GotoStatement.dir/GotoStatement.cpp.o  -o GotoStatement 

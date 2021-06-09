@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/belajar_cpp.dir/main.cpp.o CMakeFiles/belajar_cpp.dir/GotoStatement.cpp.o  -o belajar_cpp 

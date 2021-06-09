@@ -1,0 +1,4 @@
+/home/fluex404/belajar/belajar-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fluex404/belajar/belajar-cpp/cmake-build-debug/CMakeFiles/GotoStatement.dir
+/home/fluex404/belajar/belajar-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fluex404/belajar/belajar-cpp/cmake-build-debug/CMakeFiles/main.dir
